@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soroup/static/css/main.b655cf8a.css",
+    "main.js": "/soroup/static/js/main.677e6c68.js",
+    "static/media/spice.jpg": "/soroup/static/media/spice.406508299f9bcc25c7af.jpg",
+    "static/media/trade1.jpg": "/soroup/static/media/trade1.bb20bfd1f5e0c3408f0f.jpg",
+    "static/media/industry-bg.jpg": "/soroup/static/media/industry-bg.12d74ee9e05cbb2efc87.jpg",
+    "static/media/trade.jpg": "/soroup/static/media/trade.5460d6974ff9ed78c6c0.jpg",
+    "static/media/spice-dark.jpg": "/soroup/static/media/spice-dark.3a1ccc2fadc066ddafeb.jpg",
+    "static/media/who.jpg": "/soroup/static/media/who.e8b0b484abd5ecdf1ed9.jpg",
+    "static/media/hero.jpg": "/soroup/static/media/hero.55b40e171effbd3d34e1.jpg",
+    "index.html": "/soroup/index.html",
+    "main.b655cf8a.css.map": "/soroup/static/css/main.b655cf8a.css.map",
+    "main.677e6c68.js.map": "/soroup/static/js/main.677e6c68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b655cf8a.css",
+    "static/js/main.677e6c68.js"
+  ]
+}
